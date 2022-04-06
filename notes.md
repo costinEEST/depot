@@ -16,3 +16,7 @@ remote: Support for password authentication was removed on August 13, 2021. Plea
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 fatal: Authentication failed for 'https://github.com/costin-doctolib/depot.git/'
 ```
+
+```bash
+bin/rails server
+```
