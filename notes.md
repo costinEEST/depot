@@ -20,3 +20,7 @@ fatal: Authentication failed for 'https://github.com/costin-doctolib/depot.git/'
 ```bash
 bin/rails server
 ```
+
+```bash
+bin/rails test
+```
