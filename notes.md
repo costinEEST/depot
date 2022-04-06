@@ -47,3 +47,12 @@ bundle info sassc-rails
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_a/app/views/products/index.html.erb
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_a/.gitignore
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_b/app/models/product.rb
+- https://api.rubyonrails.org/classes/ActiveSupport/TestCase.html
+- http://docs.seattlerb.org/minitest
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_c/test/models/product_test.rb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_c/test/fixtures/products.yml
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_b/test/controllers/products_controller_test.rb
+
+```bash
+bundle add byebug --group 'development,test'
+```
