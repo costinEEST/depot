@@ -24,3 +24,11 @@ bin/rails server
 ```bash
 bin/rails test
 ```
+
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_a/db/seeds.rb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_a/app/assets/images/
+- https://www.vexels.com/png-svg/preview/196935/simple-crystal-icon
+
+```bash
+bin/rails db:seed
+```
