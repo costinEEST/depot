@@ -45,3 +45,5 @@ bundle info sassc-rails
 
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_a/app/views/layouts/application.html.erb
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_a/app/views/products/index.html.erb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_a/.gitignore
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_b/app/models/product.rb
