@@ -65,3 +65,4 @@ bin/rails generate controller Store index
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_d/app/assets/stylesheets/store.scss
 - https://github.com/rails/turbolinks
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_e/app/assets/stylesheets/application.scss
+- https://api.rubyonrails.org/classes/ActionView/Helpers/NumberHelper.html#method-i-number_to_currency
