@@ -60,3 +60,6 @@ bundle add byebug --group 'development,test'
 ```bash
 bin/rails generate controller Store index
 ```
+
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_d/app/views/store/index.html.erb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_d/app/assets/stylesheets/store.scss
