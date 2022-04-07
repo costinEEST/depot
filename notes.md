@@ -56,3 +56,7 @@ bundle info sassc-rails
 ```bash
 bundle add byebug --group 'development,test'
 ```
+
+```bash
+bin/rails generate controller Store index
+```
