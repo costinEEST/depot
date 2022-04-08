@@ -66,3 +66,9 @@ bin/rails generate controller Store index
 - https://github.com/rails/turbolinks
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_e/app/assets/stylesheets/application.scss
 - https://api.rubyonrails.org/classes/ActionView/Helpers/NumberHelper.html#method-i-number_to_currency
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_e/test/controllers/store_controller_test.rb
+- https://github.com/rails/rails-dom-testing + https://edgeguides.rubyonrails.org/4_2_release_notes.html#assert-select
+
+```bash
+bin/rails test:controllers
+```
