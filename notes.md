@@ -83,3 +83,6 @@ bin/rails dev:cache
 ```bash
 bin/rails generate scaffold Cart
 ```
+
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_f/app/controllers/concerns/current_cart.rb
+- https://signalvnoise.com/posts/3372-put-chubby-models-on-a-diet-with-concerns
