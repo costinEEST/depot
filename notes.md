@@ -79,3 +79,7 @@ bin/rails dev:cache
 
 - https://signalvnoise.com/posts/3113-how-key-based-cache-expiration-works
 - https://guides.rubyonrails.org/caching_with_rails.html
+
+```bash
+bin/rails generate scaffold Cart
+```
