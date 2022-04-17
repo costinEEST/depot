@@ -90,3 +90,7 @@ bin/rails generate scaffold Cart
 ```bash
 bin/rails generate scaffold LineItem product:references cart:belongs_to
 ```
+
+```bash
+bin/rails db:migrate
+```
