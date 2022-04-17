@@ -94,3 +94,8 @@ bin/rails generate scaffold LineItem product:references cart:belongs_to
 ```bash
 bin/rails db:migrate
 ```
+
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_f/app/models/line_item.rb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_f/app/models/cart.rb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_f/app/models/product.rb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_f/test/controllers/products_controller_test.rb
