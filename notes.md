@@ -99,3 +99,6 @@ bin/rails db:migrate
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_f/app/models/cart.rb
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_f/app/models/product.rb
 - https://media.pragprog.com/titles/rails6/code/rails6/depot_f/test/controllers/products_controller_test.rb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_f/app/assets/stylesheets/store.scss
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_f/app/views/carts/show.html.erb
+- https://media.pragprog.com/titles/rails6/code/rails6/depot_g/test/controllers/line_items_controller_test.rb
